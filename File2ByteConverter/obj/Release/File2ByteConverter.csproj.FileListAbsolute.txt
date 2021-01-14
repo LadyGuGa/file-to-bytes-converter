@@ -1,0 +1,9 @@
+D:\Projects\file-to-bytes-converter\File2ByteConverter\bin\Release\File2ByteConverter.exe.config
+D:\Projects\file-to-bytes-converter\File2ByteConverter\bin\Release\File2ByteConverter.exe
+D:\Projects\file-to-bytes-converter\File2ByteConverter\bin\Release\File2ByteConverter.pdb
+D:\Projects\file-to-bytes-converter\File2ByteConverter\obj\Release\File2ByteConverter.Form1.resources
+D:\Projects\file-to-bytes-converter\File2ByteConverter\obj\Release\File2ByteConverter.Properties.Resources.resources
+D:\Projects\file-to-bytes-converter\File2ByteConverter\obj\Release\File2ByteConverter.csproj.GenerateResource.cache
+D:\Projects\file-to-bytes-converter\File2ByteConverter\obj\Release\File2ByteConverter.csproj.CoreCompileInputs.cache
+D:\Projects\file-to-bytes-converter\File2ByteConverter\obj\Release\File2ByteConverter.exe
+D:\Projects\file-to-bytes-converter\File2ByteConverter\obj\Release\File2ByteConverter.pdb
