@@ -1,7 +1,5 @@
 ﻿using System;
 using System.IO;
-using System.Linq;
-using System.Text;
 using System.Windows.Forms;
 
 namespace File2ByteConverter {
@@ -11,11 +9,17 @@ namespace File2ByteConverter {
 		}
 
 		private void button1_Click(object sender, EventArgs e) {
-			byte[] bytes = File.ReadAllBytes(textBox1.Text);
-			string res1 = string.Join("", bytes.Select(b => b.ToString()));
-			string res2 = Convert.ToString(bytes);
-			string res3 = Encoding.ASCII.GetString(bytes);
-			richTextBox1.Text = res1;
+			if (openFileDialog1.ShowDialog() == DialogResult.OK) {
+				textBox1.Text = openFileDialog1.FileName;
+
+				byte[] bytes = File.ReadAllBytes(textBox1.Text);
+				string result = Convert.ToBase64String(bytes);
+				richTextBox1.Text = result;
+			}
+		}
+
+		private void button2_Click(object sender, EventArgs e) {
+			Clipboard.SetText(richTextBox1.Text);
 		}
 	}
 }

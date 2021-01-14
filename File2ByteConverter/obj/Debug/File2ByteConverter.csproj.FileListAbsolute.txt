@@ -8,3 +8,12 @@ D:\Projects\File2ByteConverter\File2ByteConverter\obj\Debug\File2ByteConverter.c
 D:\Projects\File2ByteConverter\File2ByteConverter\obj\Debug\File2ByteConverter.csproj.CoreCompileInputs.cache
 D:\Projects\File2ByteConverter\File2ByteConverter\obj\Debug\File2ByteConverter.exe
 D:\Projects\File2ByteConverter\File2ByteConverter\obj\Debug\File2ByteConverter.pdb
+D:\Projects\file-to-bytes-converter\File2ByteConverter\bin\Debug\File2ByteConverter.exe.config
+D:\Projects\file-to-bytes-converter\File2ByteConverter\bin\Debug\File2ByteConverter.exe
+D:\Projects\file-to-bytes-converter\File2ByteConverter\bin\Debug\File2ByteConverter.pdb
+D:\Projects\file-to-bytes-converter\File2ByteConverter\obj\Debug\File2ByteConverter.Form1.resources
+D:\Projects\file-to-bytes-converter\File2ByteConverter\obj\Debug\File2ByteConverter.Properties.Resources.resources
+D:\Projects\file-to-bytes-converter\File2ByteConverter\obj\Debug\File2ByteConverter.csproj.GenerateResource.cache
+D:\Projects\file-to-bytes-converter\File2ByteConverter\obj\Debug\File2ByteConverter.csproj.CoreCompileInputs.cache
+D:\Projects\file-to-bytes-converter\File2ByteConverter\obj\Debug\File2ByteConverter.exe
+D:\Projects\file-to-bytes-converter\File2ByteConverter\obj\Debug\File2ByteConverter.pdb
